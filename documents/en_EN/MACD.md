@@ -1,69 +1,69 @@
-Introduction
+Giriş
 
-  Developed by Gerald Appel in the late seventies, the Moving Average Convergence/Divergence oscillator (MACD) is one of the simplest
-and most effective momentum indicators available. The MACD turns two trend-following indicators, moving averages, into a momentum 
-oscillator by subtracting the longer moving average from the shorter moving average. As a result, the MACD offers the best of both 
-worlds: trend following and momentum. The MACD fluctuates above and below the zero line as the moving averages converge, cross and 
-diverge. Traders can look for signal line crossovers, centerline crossovers and divergences to generate signals. Because the MACD 
-is unbounded, it is not particularly useful for identifying overbought and oversold levels.
+  Yetmişli yılların sonlarında Gerald Appel tarafından geliştirilen Moving Average Convergence / Divergence oscillator (MACD), en basitlerinden birisidir.
+ve en etkin momentum göstergeleri mevcut. MACD, iki trend takip eden göstergeyi, ortalamaları hareketli bir momentum haline getiriyor
+osilatörü, daha uzun hareketli ortalamayı daha kısa hareketli ortalamadan çıkararak hesaplayın. Sonuç olarak, MACD her ikisinin de en iyisini sunar
+Dünyalar: trend takip ve momentum. MACD, hareketli ortalamalar yakınsaklaştığından, çapraz ve sıfır çizgisinin üstünde ve altında sıfır dalgalanmaktadır.
+sapmak. Yatırımcılar, sinyal üretmek için sinyal hattı geçitleri, merkez hattı geçitleri ve farklılıklar arayabilirler. Çünkü MACD
+Sınırsız olduğu için, aşırı alım ve aşırı satış seviyelerinin belirlenmesinde özellikle yararlı değildir.
 
-Note: MACD can be pronounced as either “Mac-Dee” or “M-A-C-D.” 
+Not: MACD, "Mac-Dee" veya "M-A-C-D" olarak telaffuz edilebilir.
 
-Calculation
+Hesaplama
 
-MACD Line: (12-day EMA - 26-day EMA)
+MACD Hattı: (12 günlük EMA - 26 günlük EMA)
 
-Signal Line: 9-day EMA of MACD Line
+Sinyal Hattı: MACD Hattı'nın 9 günlük EMA'sı
 
-MACD Histogram: MACD Line - Signal Line
+MACD Histogram: MACD Hattı - Sinyal Hattı
 
-The MACD Line is the 12-day Exponential Moving Average (EMA) less the 26-day EMA. Closing prices are used for these moving averages.
-A 9-day EMA of the MACD Line is plotted with the indicator to act as a signal line and identify turns. The MACD Histogram 
-represents the difference between MACD and its 9-day EMA, the Signal line. The histogram is positive when the MACD Line is above 
-its Signal line and negative when the MACD Line is below its Signal line.
+MACD Hattı, 26 günlük EMA'dan daha düşük 12 günlük Üstel Hareketli Ortalama (EMA) değeridir. Bu hareketli ortalamalar için kapanış fiyatları kullanılır.
+MACD Hattının 9 günlük EMA'sı, sinyal hattı görevi görmek ve dönüşleri tanımlamak için gösterge ile çizilir. MACD Histogramı
+MACD ve 9 günlük EMA, Sinyal hattı arasındaki farkı temsil eder. MACD Satırı yukarıdaysa histogram pozitiftir
+MACD Hattı Sinyal hattının altında olduğunda Sinyal hattını ve negatifini seçin.
 
-The values of 12, 26 and 9 are the typical setting used with the MACD, however other values can be substituted depending on your 
-trading style and goals.
+12, 26 ve 9 değerleri MACD ile kullanılan tipik ayardır, ancak diğer değerler
+ticaret stili ve hedefleri.
 
-Interpretation
+yorumlama
 
-As its name implies, the MACD is all about the convergence and divergence of the two moving averages. Convergence occurs when the 
-moving averages move towards each other. Divergence occurs when the moving averages move away from each other. The shorter moving 
-average (12-day) is faster and responsible for most MACD movements. The longer moving average (26-day) is slower and less reactive 
-to price changes in the underlying security.
+Adından da anlaşılacağı üzere, MACD, iki hareketli ortalamanın yakınlaşması ve farklılığı ile ilgilidir. Yakınsama,
+Hareketli ortalamalar birbirine doğru hareket eder. Sapma, hareket eden ortalamalar birbirinden uzaklaştığında oluşur. Kısa süren hareket
+Ortalama (12 günlük), çoğu MACD hareketinden daha hızlı ve sorumludur. Daha uzun hareketli ortalama (26 gün) daha yavaş ve daha az reaktif
+temel güvenlikteki fiyat değişiklikleri için.
 
-The MACD Line oscillates above and below the zero line, which is also known as the centerline. These crossovers signal that the 
-12-day EMA has crossed the 26-day EMA. The direction, of course, depends on the direction of the moving average cross. Positive 
-MACD indicates that the 12-day EMA is above the 26-day EMA. Positive values increase as the shorter EMA diverges further from the 
-longer EMA. This means upside momentum is increasing. Negative MACD values indicate that the 12-day EMA is below the 26-day EMA. 
-Negative values increase as the shorter EMA diverges further below the longer EMA. This means downside momentum is increasing. 
+MACD Hattı, merkez hattı olarak da bilinen sıfır çizgisinin üstünde ve altında titreşir. Bu geçişler,
+12 günlük EMA 26 günlük EMA'yı geçti. Elbette yön, hareketli ortalama çapraz yönüne bağlıdır. Pozitif
+MACD, 12 günlük EMA'nın 26 günlük EMA'nın üzerinde olduğunu gösterir. Pozitif değerler, kısa EMA daha fazla uzaklaştıkça yükselir.
+daha uzun EMA. Bu, ters momentum arttığına işaret ediyor. Negatif MACD değerleri, 12 günlük EMA'nın 26 günlük EMA'nın altında olduğunu gösterir.
+Negatif değerler, kısa EMA daha uzun EMA'nın altına düştükçe artmaktadır. Bu aşağı yönlü momentumun arttığı anlamına geliyor.
 
-Signal Line Crossovers
+Sinyal Hattı Geçişleri
 
-Signal line crossovers are the most common MACD signals. The signal line is a 9-day EMA of the MACD Line. As a moving average of 
-the indicator, it trails the MACD and makes it easier to spot MACD turns. A bullish crossover occurs when the MACD turns up and 
-crosses above the signal line. A bearish crossover occurs when the MACD turns down and crosses below the signal line. Crossovers 
-can last a few days or a few weeks, it all depends on the strength of the move.
+Sinyal hattı geçitleri en yaygın MACD sinyalleridir. Sinyal hattı, MACD Hattının 9 günlük EMA'sı. Hareketli bir ortalama olarak
+göstergesi, MACD'yi izler ve MACD dönüşümlerini kolaylaştırır. MACD ortaya çıktığında yükseliş eğilimi meydana gelir ve
+sinyal hattının üstünde kesişir. MACD azaldıkça ve sinyal hattının altına geçtiğinde düşüş eğilimi meydana gelir. Crossover'lar
+birkaç gün veya birkaç hafta sürebilir, hepsi de hareket gücüne bağlı.
 
-Due diligence is required before relying on these common signals. Signal line crossovers at positive or negative extremes should 
-be viewed with caution. Even though the MACD does not have upper and lower limits, chartists can estimate historical extremes 
-with a simple visual assessment. It takes a strong move in the underlying security to push momentum to an extreme. Even though 
-the move may continue, momentum is likely to slow and this will usually produce a signal line crossover at the extremities. 
-Volatility in the underlying security can also increase the number of crossovers.
+Bu ortak sinyallere dayanmadan önce durum tespiti gereklidir. Pozitif veya negatif uçtaki sinyal hattı geçitleri
+Dikkatle görülebilir. MACD'de üst ve alt sınırlar bulunmasa da, grafistler tarihi aşırılıkları tahmin edebilirler
+basit bir görsel değerlendirme ile. Hızın aşırı bir seviyeye çıkması temel güvenlik konusunda güçlü bir hareket gerektirir. Buna rağmen
+hareket devam edebilir, momentum yavaşlayabilir ve bu genellikle ekstremitelerde bir sinyal hattı geçiti üretir.
+Altta yatan güvenlikte oynaklık da geçiş sayısını artırabilir.
 
-The chart below shows IBM with its 12-day EMA (green), 26-day EMA (red) and the 12,26,9 MACD in the indicator window. There were 
-eight signal line crossovers in six months: four up and four down. There were some good signals and some bad signals. The yellow 
-area highlights a period when the MACD Line surged above 2 to reach a positive extreme. There were two bearish signal line 
-crossovers in April and May, but IBM continued trending higher. Even though upward momentum slowed after the surge, upward 
-momentum was still stronger than downside momentum in April-May. The third bearish signal line crossover in May resulted in a 
-good signal. 
+Aşağıdaki grafik, gösterge penceresinde 12 günlük EMA (yeşil), 26 günlük EMA (kırmızı) ve 12,26,9 MACD ile IBM'i göstermektedir. Vardı
+altı ay içinde sekiz sinyal hattı geçişi: dört yukarı ve dört aşağı. Bazı iyi sinyaller ve bazı kötü sinyaller vardı. Sarı
+alanı, MACD Hattı'nın olumlu bir seviyeye gelmesi için 2'nin üzerine çıktığı bir dönemi vurgulamaktadır. İki düşüş sinyal hattı vardı
+Geçişler Nisan ve Mayıs'ta gerçekleşti ancak IBM artmaya devam etti. Dalgalanma sonrasında yukarı doğru ivme yavaşlamasına rağmen yukarı doğru
+momentum, Nisan-Mayıs aylarında aşağı yönlü momentumdan daha güçlü oldu. Mayıs ayındaki üçüncü düşüş sinyali hattı geçişi,
+iyi sinyal.
 
-Centerline Crossovers
+Orta Çapraz Geçişler
 
-Centerline crossovers are the next most common MACD signals. A bullish centerline crossover occurs when the MACD Line moves above 
-the zero line to turn positive. This happens when the 12-day EMA of the underlying security moves above the 26-day EMA. A bearish 
-centerline crossover occurs when the MACD moves below the zero line to turn negative. This happens when the 12-day EMA moves 
-below the 26-day EMA.
+Merkez hatları, bir sonraki en yaygın MACD sinyalleri. MACD Hattı yukarı taşındığında yükseliş merkez hattı geçişi gerçekleşir
+pozitif hale getirmek için sıfır çizgisi. Altta yatan güvencenin 12 günlük EMA'sı 26 günlük EMA'nın üzerine çıkınca bu olur. Düşüşü
+Merkez hattı geçişi, MACD'nin negatif hale getirmek için sıfır çizgisinin altına düşmesi durumunda oluşur. Bu, 12 günlük EMA hareket ettiğinde gerçekleşir
+26 günlük EMA'nın altında.
 
 Centerline crossovers can last a few days or a few months. It all depends on the strength of the trend. The MACD will remain 
 positive as long as there is a sustained uptrend. The MACD will remain negative when there is a sustained downtrend. The next 
