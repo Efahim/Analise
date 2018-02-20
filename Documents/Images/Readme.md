@@ -1,7 +1,7 @@
 
 Showing images on Github
 
-![TRY](..//master/Analise/Documents/Images/Image1.png)
+![TRY](https://github.com/Efahim/Analise/blob/master/Documents/Images/Image1.PNG)
 
 
 İt is succesfull
