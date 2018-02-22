@@ -1,12 +1,12 @@
-# Moving Average Convergence Divergence – MACD
+# MOVING AVERAGE CONVERGENCE DIVERGENCE – MACD
 
-## What is the 'Moving Average Convergence Divergence - MACD'
+## What is the "Moving Average Convergence Divergence - MACD"
 
 Moving average convergence divergence (MACD) is a trend-following momentum indicator that shows the relationship between two moving averages of prices. The MACD is calculated by subtracting the 26-day exponential moving average (EMA) from the 12-day EMA. A nine-day EMA of the MACD, called the "signal line", is then plotted on top of the MACD, functioning as a trigger for buy and sell signals.
 
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/macd1.png)
 
-## BREAKING DOWN 'Moving Average Convergence Divergence - MACD'
+## BREAKING DOWN "Moving Average Convergence Divergence - MACD"
 
 Moving average convergence divergence (MACD) indicators can be interpreted using three different methods:
 
@@ -114,9 +114,12 @@ Volatility. There are many ways to measure volatility, and as with other indicat
 Cycles. Markets of all types tend to ebb and flow over time, even if they are in a steady trend or in a non-trending condition. One of the more widely known cycle is the seasonal cycle for stocks —sell in May and go away —which could help determine if a strategy is operating in the strong or weak half of the year.
 Sentiment extremes. Used as a contrary indicator, excessive bullishness according to surveys or actual trading activity, can suggest market tops. Conversely, excessive bearishness can lead to market bottoms.
 Valuation. Excessively high valuation compared to market, sector or stock specific measures can lead to sell signals.
+
 # OTHER MACD RESOURCES
-# A Primer On The MACD
-By Casey Murphy
+
+# A PRIMER ON THE MACD
+_By Casey Murphy_
+
 Learning to trade in the direction of short-term momentum can be a difficult task at the best of times, but it is exponentially more difficult when one is unaware of the appropriate tools that can help. This article will focus on the most popular indicator used in technical analysis, the moving average convergence divergence (MACD). Gerald Appel developed this indicator in the 1960s, and although its name sounds very complicated, it's really quite simple to use. Read on to learn how you can start looking for ways to incorporate this powerful tool into your trading strategy.
 ## Background Knowledge
 
@@ -124,7 +127,7 @@ The popularity of the MACD is largely due to its ability to help quickly spot in
 As you can see from the chart below, many traders will watch for a short-term moving average (blue line) to cross above a longer-term moving average (red line) and use this to signal increasing upward momentum. This bullish crossover suggests that the price has recently been rising at a faster rate than it has in the past, so it is a common technical buy sign. Conversely, a short-term moving average crossing below a longer-term average is used to illustrate that the asset's price has been moving downward at a faster rate, and that it may be a good time to sell.
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/macd5.png)
 
-Figure 1
+_Figure 1_
 
 ## The Indicator
 
@@ -136,7 +139,7 @@ It has become standard to plot a separate moving average alongside the MACD, whi
 The basic bullish signal (buy sign) occurs when the MACD line (the solid line) crosses above the signal line (the dotted line), and the basic bearish signal (sell sign) is generated when the MACD crosses below the signal line. Traders who attempt to profit from bullish MACD crosses that occur when the indicator is below zero should be aware that they are attempting to profit from a change in momentum direction, while the moving averages are still suggesting that the security could experience a short-term sell-off. This bullish crossover can often correctly predict the reversal in the trend as shown in Figure 2, but it is often considered riskier than if the MACD were above zero.
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/macd6.png)
 
-Figure 2
+_Figure 2_
 
 Another common signal that many traders watch for occurs when the indicator travels in the opposite direction of the asset, known as divergence. This concept takes further study and is often used by experienced traders.
 ## The Centerline
@@ -145,7 +148,7 @@ As mentioned earlier, the MACD indicator is calculated by taking the difference 
 
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/macd7.png)
 
-Figure 3
+_Figure 3_
 
 ## Advantages
 
@@ -156,15 +159,17 @@ The biggest disadvantage of using this indicator to generate transaction signals
 
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/macd8.png)
 
-Figure 4
+_Figure 4_
 
 Traders should be aware that the whipsaw effect can be severe in both trending and range-bound markets, because relatively small movements can cause the indicator to change directions quickly. The large number of false signals can result in a trader taking many losses. When commissions are factored into the equation, this strategy can become very expensive.
 Another MACD drawback is its inability to make comparisons between different securities. Because the MACD is the dollar value between the two moving averages, the reading for differently priced stocks provides little insight when comparing a number of assets to each other. In an attempt to fix this problem, many technical analysts will use the percentage price oscillator, which is calculated in a similar fashion as the MACD, but analyzes the percentage difference between the moving averages rather than the dollar amount.
 ## Conclusion
 
 The MACD indicator is the most popular tool in technical analysis, because it gives traders the ability to quickly and easily identify the short-term trend direction. The clear transaction signals help minimize the subjectivity involved in trading, and the crosses over the signal line make it easy for traders to ensure that they are trading in the direction of momentum. Very few indicators in technical analysis have proved to be more reliable than the MACD, and this relatively simple indicator can quickly be incorporated into any short-term trading strategy.
-# SPOTTİNG TREND REVERSALS WİTH MACD
- By Ryan Campbell
+
+# SPOTTING TREND REVERSALS WITH MACD
+ _By Ryan Campbell_
+ 
 If there were ever a quest in the world of investing on par with the search for the Holy Grail, it would be acquiring the ability to spot trend changes. There are many ways investors attempt to do this with varying degrees of success, but a common trend-tracking tool is the two-line moving average convergence divergence (MACD). This tool measures a stock's momentum and can aid investors in spotting changes in market sentiment.
 Just like stock prices, momentum will trend. Momentum changes precede stock price changes. This article is designed to help you spot trend changes in momentum and stock price.
 ## Nature of Momentum
@@ -176,8 +181,9 @@ Gerald Appel developed the MACD indicator in an attempt to chart momentum by mea
 
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/macd9.png)
 
-Figure 1: Two-line MACD
-Source: ProphetCharts
+_Figure 1: Two-line MACD_
+
+_Source: ProphetCharts_
 
 To confirm changes in momentum, a nine-day exponential moving average is added as a signal line (the red line in Figure 1). A buy signal occurs when the MACD line crosses above the signal line. The sell signal occurs when the MACD line falls below the signal line. In an attempt to optimize these signals, it was found that 12- and 26-day moving averages for long-term signals and seven and 18-day moving averages for short-term signals were ideal. (For background on this technical indicator, check out A Primer On The MACD.)
 ## Channeling the MACD
@@ -187,16 +193,18 @@ In November 2008 and then in February 2009, the MACD created lower highs while t
 
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/macd10.png)
 
-Figure 2: Bearish divergence and trend
-Source: ProphetCharts
+_Figure 2: Bearish divergence and trend_
+
+_Source: ProphetCharts_
 
 If we had looked at Figure 3 in July 2008, we may have noticed that the MACD was making higher lows and diverging from the stock price. This phenomenon is signaling a possible reversal. In November, the reversal was confirmed when the MACD created a major higher low, demonstrating a buildup in bullish momentum.
 January 2009 saw the stock make a brand-new high when it broke long-term resistance; however, the MACD showed that momentum wasn't confirming the breakout. The MACD kept falling as the stock attempted to establish support near the $80 level. When the stock broke support, the MACD broke its support line, confirming that the stock would not maintain its current price level and investors should sell their shares. (Learn to smooth trends and make confirming momentum easier to identify; read Confirm Forex Momentum With Heikin Ashi.)
 
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/macd11.png)
 
-Figure 3: Bullish divergence and trend
-Source: ProphetCharts
+_Figure 3: Bullish divergence and trend_
+
+_Source: ProphetCharts_
 
 ## The Bottom Line
 The strength of the current trend can be measured by channeling the MACD. Spot trend reversals by looking for divergences in momentum as measured by the MACD channel. Determine buy and sell signals using the MACD crossovers or bounces off the channel's lines. Learning to implement and recognize these signals helps investors increase their profits when trading short and intermediate-term trends. (To hear about the case against the MACD, read Candle Sheds More Light Than The MACD.)
