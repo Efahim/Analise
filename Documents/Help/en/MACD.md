@@ -125,6 +125,7 @@ Learning to trade in the direction of short-term momentum can be a difficult tas
 
 The popularity of the MACD is largely due to its ability to help quickly spot increasing short-term momentum. However, before we jump into the inner workings of the MACD, it is important to completely understand the relationship between a short-term and long-term moving average.
 As you can see from the chart below, many traders will watch for a short-term moving average (blue line) to cross above a longer-term moving average (red line) and use this to signal increasing upward momentum. This bullish crossover suggests that the price has recently been rising at a faster rate than it has in the past, so it is a common technical buy sign. Conversely, a short-term moving average crossing below a longer-term average is used to illustrate that the asset's price has been moving downward at a faster rate, and that it may be a good time to sell.
+
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/macd5.png)
 
 _Figure 1_
@@ -137,6 +138,7 @@ A positive MACD value, created when the short-term average is above the longer-t
 
 It has become standard to plot a separate moving average alongside the MACD, which is used to create a clear signal of shifting momentum. A signal line, also known as the trigger line, is created by taking a nine-period moving average of the MACD. This is found plotted alongside the indicator on the chart. As you can see in Figure 2, transaction signals are generated when the MACD line (the solid line) crosses through the signal line (nine-period exponential moving average (EMA) - dotted blue line).
 The basic bullish signal (buy sign) occurs when the MACD line (the solid line) crosses above the signal line (the dotted line), and the basic bearish signal (sell sign) is generated when the MACD crosses below the signal line. Traders who attempt to profit from bullish MACD crosses that occur when the indicator is below zero should be aware that they are attempting to profit from a change in momentum direction, while the moving averages are still suggesting that the security could experience a short-term sell-off. This bullish crossover can often correctly predict the reversal in the trend as shown in Figure 2, but it is often considered riskier than if the MACD were above zero.
+
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/macd6.png)
 
 _Figure 2_
