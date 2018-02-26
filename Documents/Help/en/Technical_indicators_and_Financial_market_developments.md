@@ -19,8 +19,11 @@ Here, the simple arithmetic mean is calculated. Depending on the length of the o
 The weighted moving average weights each price differently. In general, the lower prices are weighted less than the more recent ones.
 #### EMA - Exponential Moving Average
 The exponential moving average is calculated iteratively from all past prices, i. with different observation periods / existing historical data, different EMAs are calculated despite consideration of the identical title.
+
 EMAt = EMAt-1 + (SF * (Ct-EMAt-1))
+
 EMAt = SF · Ct + (1-SF) · EMAt-1
+
 The advantage of the weighted MAs (WMA, EMA) is that they react faster to trend changes than the simple MAs, since the younger ones are weighted higher than the older ones. In Figure 3, the various MAs are exemplified by the Dax values of 1.5. until 1.11. 2007 - over six months. This period is used for all example charts shown here.
 
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/tech1.png)
