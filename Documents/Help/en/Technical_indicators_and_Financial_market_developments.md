@@ -1,3 +1,4 @@
+
 # Technical indicators
 ## Introduction
 Indicators in general are indicators that allow a comparison of different values. In the context of capital markets and market technology, these are key figures that can only be compiled from past prices and revenues.
@@ -25,7 +26,8 @@ The advantage of the weighted MAs (WMA, EMA) is that they react faster to trend 
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/tech1.png)
 
 Figure 3: Charts of different moving averages
-#### MACD - Moving Average Convergence / Divergence System This indicator can serve both as a trend follower and as an oscillator. The MACD is a combination of two lines. The first is made up of the difference between two EMAs, one shorter and one longer, of the course to be considered. The second line results as the EMA of this difference, the so-called trigger.
+#### MACD - Moving Average Convergence / Divergence System 
+This indicator can serve both as a trend follower and as an oscillator. The MACD is a combination of two lines. The first is made up of the difference between two EMAs, one shorter and one longer, of the course to be considered. The second line results as the EMA of this difference, the so-called trigger.
 The MACD line therefore fluctuates around the zero line and the larger this distance, the greater the divergence: the EMAs diverge. That is, the prevailing trend is intensifying. If the MACD line crosses the trigger from below, a buy signal is signaled, otherwise a sell signal. The greater the distance to the zero line, the more successful the signals are, since then the trend intensity is greater than near the zero line. Buy-signal and sell-signal mean price will rise or price will fall.
 If a divergence between the MACD line and the price trend is observed, this indicates a trend change. Figure 4 shows a MACD with trigger.
 
