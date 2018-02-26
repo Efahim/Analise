@@ -61,9 +61,13 @@ The conversions have a very high relevance for the technical analysis. The indic
 #### OBV - On Balance Volume
 This indicator is intended to show whether liquidity flows into or out of a paper. The OBV corresponds to a sales chart, which is compared to the daily change in prices. With rising prices the volume is added to the OBV of the previous day, with falling it is deducted. So if the prices rise without the indicator taking part in this movement, ie if there is divergence, the prices are at a top and falling prices could follow. In conjunction with his MA trading signals can thus be generated.
 The calculation depends on today's closing price:
+
 this is higher than yesterday: OBV = OBVgestern + volume today
+
 this is lower than yesterday: OBV = OBVgestern - volume today
+
 are both the same: OBV = OBVgestern
+
 The assumption that all sales are made on a positive day is a simplification and quite questionable. Therefore, the OBV is considered obsolete today.
 It is also criticized that the OBV does not pay any attention to the strength of a price movement and there are now indicators that describe the price / volume ratio in more detail (see ADL).
 #### Accumulation / Distribution Line
