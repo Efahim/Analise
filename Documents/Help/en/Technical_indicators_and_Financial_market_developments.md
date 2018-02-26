@@ -40,10 +40,15 @@ If a divergence between the MACD line and the price trend is observed, this indi
 Figure 4: MACD chart
 #### CCI - Commodity Channel Index
 The CCI quantifies the distance to an SMA of the average daily prices. The daily average rate is calculated as the arithmetic mean of the day high, low and close price. If a certain measure is exceeded, an incipient trend is assumed (see Fig. 5, p.7) The usual distance for the generation of trading signals is the distance of 100:
+
 • CCI rises above +100: buy
+
 • CCI drops below +100: hold
+
 • CCI drops below -100: sell
+
 • CCI rises above -100: hold
+
 If the CCI fluctuates in the band of the two signal lines, the use of an oscillator is recommended, as the price does not follow any trend [10]. Figure 5 shows the course.
 
 ![](https://github.com/Efahim/Analise/blob/master/Documents/Images/tech4.png)
@@ -113,12 +118,16 @@ Figure 9: Chaikin's Oscillator of the SAP Share
 #### DMI - Directional Movement Index
 This system generates two lines (+ DI, -DI) that measure the positive and negative movements of the course. It is assumed that today's high will be above yesterday's level if the trend is positive - in a downtrend analogous to today's low below yesterday's level. To calculate the + DI and DI, first calculate the so-called true range, which is defined as the maximum (TRt = max (TRa; TRb; TRc)) of the following differences:
 
-• TRa = Ht - Lt; Daily high today minus daily low today
+TRa = Ht - Lt; Daily high today minus daily low today
+
 TRb = Ht - Ct-1; Day high today minus the closing price yesterday
+
 TRc = Lt - Ct-1; Daily low today minus closing price yesterday
+
 The difference between today's high and yesterday's high equals the + DM and the difference of the analog lows the -DM. The + DI is now calculated by dividing this + DM by the TRt (analogous to -DI). The parameter of this indicator is the time. The default value is t = 14 days, i. the + DI14 is the quotient of the sum of the + DM of the last 14 days and the sum of the TR of this range. 
 The DMI is now calculated from the difference of + DM and -DI divided by the sum of both numbers multiplied by 100%. The result is a percentage that is used to quantify the expression / intensity of the prevailing trend.
 Due to its high volatility, the DMI is rarely represented. In Figure 10 (p.14) it can be seen including + DI and -DI together with the ADX.
+
 #### ADX - Average Directional Index
 While the two sub-indices + DI and -DI mainly determine the trend direction, the ADX is used exclusively for the determination of the trend strength. The ADX is the sealed variant of the DMI, as shown in Figure 10 (page 14). With increasing ADX, ie increasing trend strength, the crossing points of the DI lines are used as signals. Cuts the
 + DI the -DI from below, it is a buy signal, the other way around a sell-signal.
